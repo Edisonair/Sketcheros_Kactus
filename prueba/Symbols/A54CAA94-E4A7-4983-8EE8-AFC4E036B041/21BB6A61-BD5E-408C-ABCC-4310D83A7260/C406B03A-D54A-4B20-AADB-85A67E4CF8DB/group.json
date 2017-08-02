@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "C406B03A-D54A-4B20-AADB-85A67E4CF8DB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 21,
+    "width": 309,
+    "x": 25,
+    "y": 99
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DACD98BD-412F-4733-90E8-E0F9AF0A336B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3C41BBE0-8212-4884-A395-B33302375D0E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6CF3CD56-7970-4B05-BA61-39252AD1D7E5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9FE557B2-F4B4-4FEE-8717-48B7D45C64E1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1E777B4A-5B06-4DED-BD90-36BE6F7425B1"
+    }
+  ],
+  "name": "Brighness",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

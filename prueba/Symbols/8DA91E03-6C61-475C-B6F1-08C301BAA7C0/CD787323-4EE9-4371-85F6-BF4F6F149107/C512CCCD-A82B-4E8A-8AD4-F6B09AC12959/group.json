@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "C512CCCD-A82B-4E8A-8AD4-F6B09AC12959",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 21,
+    "width": 305,
+    "x": 30,
+    "y": 315
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "ABDBE609-11F3-40C9-9DD3-51F4947EFAFD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3764F3D8-FBC6-4CD6-A26B-3BBF05F86B1B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "19866AF7-C025-4C6A-B2A7-627D4A15A408"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DEC3E6C7-7BA5-42AE-A1DC-E2CD62195681"
+    }
+  ],
+  "name": "Volume Slide",
+  "nameIsFixed": true,
+  "originalObjectID": "68BDE850-3B5D-4E13-B3AA-10B6F4BDEBC8",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "CD787323-4EE9-4371-85F6-BF4F6F149107",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 408,
+    "width": 359,
+    "x": 0,
+    "y": 2.273736754432322e-13
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "65E33CAE-2ADE-4573-8AC9-FFA7578C74CC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "07800FBB-4A06-4E79-A0C4-A6A76900B1D4"
+    },
+    {
+      "class": "text",
+      "id": "24045CDD-31E7-4CCB-B32C-EBF64A85335C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "919709CA-C3DC-44DC-B7E3-5909E3682B53"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0E24EFD5-5D2D-4838-9A0B-20C94D1BA5D1"
+    },
+    {
+      "class": "group",
+      "id": "C512CCCD-A82B-4E8A-8AD4-F6B09AC12959"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A27C3969-4738-48FA-83F5-E139C0E4D53C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A1B47E07-EAD1-489A-A425-B1A12B509291"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1AA39DD7-6072-4206-ADCA-53E3A0E6416B"
+    },
+    {
+      "class": "group",
+      "id": "21A114CC-B28F-498F-89A1-B41A629E318E"
+    },
+    {
+      "class": "text",
+      "id": "1319BFA2-2B42-4E11-9ADD-921CCFD0AF1A"
+    },
+    {
+      "class": "text",
+      "id": "3569BD9D-FE0F-46F2-B8DF-FC037AB020B7"
+    },
+    {
+      "class": "text",
+      "id": "6565DC75-6832-4E2D-8901-D56C28976B12"
+    },
+    {
+      "class": "group",
+      "id": "BC5168E8-718C-4DDB-A03F-D86ABC928CC7"
+    }
+  ],
+  "name": "Control Panel/Music",
+  "nameIsFixed": true,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "1136166C-74B9-45D7-ACDD-89A878FC0157",
+        "version": 4
+      }
+    }
+  }
+}

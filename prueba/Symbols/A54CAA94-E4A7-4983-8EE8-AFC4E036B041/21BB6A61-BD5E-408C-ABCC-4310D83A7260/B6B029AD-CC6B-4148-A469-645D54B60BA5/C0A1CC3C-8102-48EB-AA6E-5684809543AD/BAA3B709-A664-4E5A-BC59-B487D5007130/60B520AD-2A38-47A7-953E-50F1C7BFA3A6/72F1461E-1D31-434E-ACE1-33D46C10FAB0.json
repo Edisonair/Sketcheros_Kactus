@@ -1,0 +1,141 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "do_objectID": "72F1461E-1D31-434E-ACE1-33D46C10FAB0",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 9.5,
+    "width": 7,
+    "x": 0,
+    "y": 0
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "path": {
+    "_class": "path",
+    "isClosed": true,
+    "pointRadiusBehaviour": 0,
+    "points": [
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.14285714285714285, 0.47368421052631576}",
+        "curveMode": 1,
+        "curveTo": "{0.14285714285714285, 0.47368421052631576}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.14285714285714285, 0.47368421052631576}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0, 0.47368421052631576}",
+        "curveMode": 1,
+        "curveTo": "{0, 0.47368421052631576}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0, 0.47368421052631576}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0, 1}",
+        "curveMode": 1,
+        "curveTo": "{0, 1}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0, 1}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{1, 1}",
+        "curveMode": 1,
+        "curveTo": "{1, 1}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{1, 1}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{1, 0.47368421052631576}",
+        "curveMode": 1,
+        "curveTo": "{1, 0.47368421052631576}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{1, 0.47368421052631576}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.8571428571428571, 0.47368421052631576}",
+        "curveMode": 1,
+        "curveTo": "{0.8571428571428571, 0.47368421052631576}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.8571428571428571, 0.47368421052631576}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.8571428571428571, 0.11819218726534593}",
+        "curveMode": 4,
+        "curveTo": "{0.8571428571428571, 0.26288330554962158}",
+        "hasCurveFrom": true,
+        "hasCurveTo": false,
+        "point": "{0.8571428571428571, 0.26288330554962158}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.30315679950373514, 0}",
+        "curveMode": 2,
+        "curveTo": "{0.69724455350000014, 0}",
+        "hasCurveFrom": true,
+        "hasCurveTo": true,
+        "point": "{0.5, 0}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.14285714285714285, 0.26288330554962158}",
+        "curveMode": 4,
+        "curveTo": "{0.14285714285714285, 0.11769686491755194}",
+        "hasCurveFrom": false,
+        "hasCurveTo": true,
+        "point": "{0.14285714285714285, 0.26288330554962158}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.14285714285714285, 0.47368421052631576}",
+        "curveMode": 1,
+        "curveTo": "{0.14285714285714285, 0.47368421052631576}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.14285714285714285, 0.47368421052631576}"
+      }
+    ]
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false
+}

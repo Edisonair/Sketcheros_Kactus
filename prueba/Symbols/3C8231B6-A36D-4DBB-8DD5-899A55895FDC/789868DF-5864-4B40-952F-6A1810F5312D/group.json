@@ -1,0 +1,193 @@
+{
+  "_class": "group",
+  "do_objectID": "789868DF-5864-4B40-952F-6A1810F5312D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 216,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E83FBB5A-BCDA-4BC8-B822-B995D41B8456"
+    },
+    {
+      "class": "group",
+      "id": "28462016-BF38-474C-8FD1-3D9D786AD942"
+    },
+    {
+      "class": "group",
+      "id": "7BD0990F-A20F-4A63-BB6F-26F0AD443D7F"
+    },
+    {
+      "class": "group",
+      "id": "121051F0-1201-4FD3-BB62-DF5BEDBAEBA3"
+    },
+    {
+      "class": "group",
+      "id": "A706E542-37B4-44AC-B6E3-C516D82E8B6E"
+    },
+    {
+      "class": "group",
+      "id": "C08FEA18-42D5-40BC-9E5F-1773651CD9CC"
+    },
+    {
+      "class": "group",
+      "id": "FBB677F3-3C83-4DA4-85D3-C7641F863DFA"
+    },
+    {
+      "class": "group",
+      "id": "55DA2CD0-7835-4788-A6D3-10BD191395E7"
+    },
+    {
+      "class": "group",
+      "id": "26233083-5D3B-4E2D-BC54-5040F152B66D"
+    },
+    {
+      "class": "group",
+      "id": "61A916C4-9EA5-4871-9784-09F4E31C31B3"
+    },
+    {
+      "class": "group",
+      "id": "35385E85-C850-4E42-837B-68A916232B47"
+    },
+    {
+      "class": "group",
+      "id": "0A3387A8-49BE-4D35-929F-1D7F52CD9F4C"
+    },
+    {
+      "class": "group",
+      "id": "059B4131-6D6C-498D-B607-F16568CE3239"
+    },
+    {
+      "class": "group",
+      "id": "7BD46AC1-6910-4242-8DEF-B77BAD84ECF9"
+    },
+    {
+      "class": "group",
+      "id": "2758D374-7A89-4FDA-8DC0-22BDD71657B6"
+    },
+    {
+      "class": "group",
+      "id": "9AB1B405-D2B6-430D-BEB8-C5095C9C7276"
+    },
+    {
+      "class": "group",
+      "id": "74971125-CB7B-49FC-9940-BB6452B9B947"
+    },
+    {
+      "class": "group",
+      "id": "50A56F70-854B-4A05-AFB9-CE0AF9978F35"
+    },
+    {
+      "class": "group",
+      "id": "15A1E3B6-6ACB-4CF2-B4D5-4B4A6F42D19A"
+    },
+    {
+      "class": "group",
+      "id": "747012EB-1051-4571-B42D-876B9AB25465"
+    },
+    {
+      "class": "group",
+      "id": "858F7996-1843-41F2-B777-3A9D63124B03"
+    },
+    {
+      "class": "group",
+      "id": "B2BCB331-024C-4E71-8D55-580BBAC7B3AF"
+    },
+    {
+      "class": "group",
+      "id": "A6A6F18B-1285-4FE7-9827-3276777A8B40"
+    },
+    {
+      "class": "group",
+      "id": "5367C27F-2CB6-49EF-BD27-7AFDC7A08105"
+    },
+    {
+      "class": "group",
+      "id": "0917C8AD-921F-4E97-8A17-C323325B0ACA"
+    },
+    {
+      "class": "group",
+      "id": "308261E5-9816-4713-BAFA-ADA4ED9663B4"
+    },
+    {
+      "class": "group",
+      "id": "27122A25-C791-4E32-A669-B52027F50C00"
+    },
+    {
+      "class": "group",
+      "id": "BE93AA7C-A664-4443-B765-4EA48BBB6044"
+    },
+    {
+      "class": "group",
+      "id": "5FD6B2EC-A353-41F0-9ECC-D6F38A758213"
+    },
+    {
+      "class": "group",
+      "id": "12171F76-2F72-4B4B-BFAA-59E397543B8E"
+    },
+    {
+      "class": "group",
+      "id": "C9BDBA74-5885-49DC-B9FA-B3AA306A9314"
+    },
+    {
+      "class": "group",
+      "id": "0B9DB46F-A00C-41A7-84AA-35AA372900AF"
+    },
+    {
+      "class": "group",
+      "id": "6540A43E-69A5-41BE-A9B8-B2B25200C571"
+    },
+    {
+      "class": "group",
+      "id": "B4AF0995-892D-4434-9230-A087A9F027B4"
+    },
+    {
+      "class": "group",
+      "id": "D8F54A6A-EF67-4975-A908-4DDFB88B5067"
+    },
+    {
+      "class": "group",
+      "id": "34342006-7689-43B1-9789-CAA22702B4DC"
+    }
+  ],
+  "name": "Keyboard Light Email",
+  "nameIsFixed": true,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "DCB5DCB2-BC49-4F16-AA0C-A44C41831E6F",
+        "version": 3
+      }
+    }
+  }
+}
