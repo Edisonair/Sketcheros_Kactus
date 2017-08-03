@@ -34,7 +34,19 @@
   "layers": [
     {
       "class": "symbolMaster",
+      "id": "D17B51EE-1A41-45CF-BD7D-65105609B7A5"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D0F5A3BC-0448-4615-BDF5-C88E017F0DE1"
+    },
+    {
+      "class": "symbolMaster",
       "id": "1C80D8AB-B4BF-403D-8139-A585A4C712AF"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "3522FCA2-0E4C-4399-9C1E-DD5766AFFAF3"
     },
     {
       "class": "symbolMaster",
